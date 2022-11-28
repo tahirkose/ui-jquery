@@ -37,7 +37,7 @@
     "tag": "v0.2.6",
     "commit": "28ed6fa374592eb56590050cece409471fbfc41e"
   },
-  "_source": "https://github.com/troolee/gridstack.js.git",
+  "_source": "https://github.com/tahirkose/ui-jquery.git",
   "_target": "~0.2.6",
   "_originalSource": "gridstack"
 }
