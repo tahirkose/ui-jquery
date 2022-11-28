@@ -530,7 +530,7 @@ thanks [@ermcgrat](https://github.com/ermcgrat) and others for pointing out code
 
 ## v0.2.6 (2016-08-17)
 
-- update requirements to the latest versions of jQuery (v3.1.0+) and jquery-ui (v1.12.0+).
+- update requirements to the latest versions of jQuery (v3.1.0+) and jquery-ui (v1.13.0+).
 - fix jQuery `size()` ([#486](https://github.com/gridstack/gridstack.js/issues/486)).
 - update `destroy([removeDOM])` call ([#422](https://github.com/gridstack/gridstack.js/issues/422)).
 - don't mutate options when calling `draggable` and `resizable`. ([#505](https://github.com/gridstack/gridstack.js/issues/505)).
